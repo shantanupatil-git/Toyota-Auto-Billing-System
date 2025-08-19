@@ -30,3 +30,6 @@
 ## 🛠 Tech Stack
 - *Language:* Python  
 - *GUI Framework:* Tkinter
+
+## 📸 Screenshot
+![Billing System Output](Billing System.png)
