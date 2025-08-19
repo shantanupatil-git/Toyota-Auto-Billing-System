@@ -32,4 +32,4 @@
 - *GUI Framework:* Tkinter
 
 ## 📸 Screenshot
-![Billing System Output](Billing System.png)
+![Billing System Output](Billing_System.png)
